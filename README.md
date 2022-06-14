@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 💫About Me :
 - 🔭 I'm currently working on using machine learning to understand how the brain processes language.
 - 🌱 I'm currently upskilling my data science skills.
-- ⚡ Fun Fact: I like bodybuilding, ice skating, and baking banada bread 🍞 
+- ⚡ Fun Fact: I like bodybuilding, ice skating, and baking banana bread 🍞 
 - 😄 Pronouns: he/him
 - 📫 How to reach me: abomicode@gmail.com
 
